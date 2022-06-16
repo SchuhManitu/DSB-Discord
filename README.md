@@ -7,9 +7,9 @@ With this Python script you can integrate your representation plan information i
 To get the code working you have to install dsbapipy, dsbapi, pickle via pip
 
 > pip install dsbapi
-> 
+
 > pip install dsbapipy
-> 
+
 > pip install pickle
 
 Then you need to insert your information betwen the quotation marks
