@@ -4,6 +4,7 @@ KENNWORT = ""
 KENNUNG = ""
 FEHLER_URL = ""
 
+import requests
 import time
 import sys
 import time
