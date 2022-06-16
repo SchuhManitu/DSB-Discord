@@ -1,9 +1,3 @@
-##########################
-#
-#   !!!! VEREINFACHTE VERSION OHNE SIGNAL/WHATSAPP/DROPBOX/ !!!!
-#
-#EINSTELLUNGEN:
-#
 KLASSE = "9d"
 WEEBHOOK_URL = "https://discord.com/api/webhooks/943903174224392203/TVyIqkEpBgY_fx48WMekqVNfVAJahiUYkwD9f15Guk4I_bBP280HLXalri8HNr5bIrXv"
 #
